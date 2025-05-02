@@ -1,0 +1,25 @@
+
+body{
+    background-color: red;
+}
+.a{
+    background-color: aqua;
+    text-align: center;
+    color: white;
+}
+.card{
+    background-color: white;
+    text-align: center;
+    width: 350px;
+    border-radius: 10px;
+    border: 1px solid black;
+    padding-bottom: 10px;
+}
+button{
+    background-color: black;
+    border-radius: 10px;
+    color: white;
+}
+.box{
+    background-color: bisque;
+}
